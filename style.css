@@ -1,3 +1,15 @@
 ---
 layout: style
 ---
+
+//
+// Tables
+//
+
+table {
+  border-collapse: collapse; // Prevent double borders
+}
+
+th, td{
+  padding: 5px;
+}

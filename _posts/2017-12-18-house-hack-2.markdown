@@ -1,0 +1,34 @@
+---
+title: 68% RoI (Mississauga)
+subtitle: Rental Property in Mississauga
+layout: default
+modal-id: 1
+date: 2017-12-18
+img: property1/after-rehab/living-room-in-1.jpg
+thumbnail: property1/after-rehab/living-room-in-1-thumbnail.jpg
+alt: image-alt
+total_roi: $52,810
+cashflow: $2,948
+property_type: Duplex
+description: This is a house hack. The property was bought at a discount, rehabbed and rented out. This property has been rented out on short terms (AirBnB), and long leases.
+---
+
+### Before Rehab
+
+Here is the condition of the property when acquired.
+
+![living-room-out](img/portfolio/property1/before-rehab/W4069910_15.jpg) | ![kitchen](img/portfolio/property1/before-rehab/W4069910_16.jpg) | ![living-room-in](img/portfolio/property1/before-rehab/W4069910_17.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+![bedroom](img/portfolio/property1/before-rehab/W4069910_18.jpg) | ![bathroom](img/portfolio/property1/before-rehab/bathroom.jpg)| ![laundry](img/portfolio/property1/before-rehab/W4069910_20.jpg)
+
+### After Rehab
+
+![living-room-in](img/portfolio/property1/after-rehab/living-room-in.jpg) | ![kitchen](img/portfolio/property1/after-rehab/kitchen.jpg) | ![living-room-in](img/portfolio/property1/after-rehab/living-room-in-1.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+![bedroom](img/portfolio/property1/after-rehab/bedroom.jpg) | ![bathroom](img/portfolio/property1/after-rehab/bathroom.jpg)| ![laundry](img/portfolio/property1/after-rehab/laundry-room.jpg)
+
+### The Numbers
+
+The tenant pays $1,400 per month for this unit. Bellow is last year total Return On Investment on this property.
+
+![the-numbers-68-roi](img/portfolio/property1/the-numbers.jpg)
