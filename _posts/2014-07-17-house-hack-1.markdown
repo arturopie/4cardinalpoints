@@ -1,0 +1,15 @@
+---
+title: House Hack (Mississauga) 
+subtitle: Rental Property in Mississauga
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: coming-soon-thumbnail.png
+thumbnail: coming-soon-thumbnail.png
+alt: image-alt
+total_roi:
+cashflow:
+property_type: Duplex
+description: 
+
+---
