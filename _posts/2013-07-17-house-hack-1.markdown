@@ -3,9 +3,9 @@ title: House Hack (Mississauga)
 subtitle: Rental Property in Mississauga
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: coming-soon-thumbnail.png
-thumbnail: coming-soon-thumbnail.png
+date: 2013-07-17
+img: house-hack-1/basement-unit.jpg
+thumbnail: house-hack-1/basement-unit-thumbnail.jpg
 alt: image-alt
 total_roi:
 cashflow:

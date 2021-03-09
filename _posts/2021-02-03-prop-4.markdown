@@ -1,8 +1,8 @@
 ---
-title: Duplex in Welland
-subtitle: Buy and Hold Rental Property 
+title: Pre-construction (Chatham)
+subtitle: Purpose-built rental duplex
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2014-07-17
 img: coming-soon-thumbnail.png
 thumbnail: coming-soon-thumbnail.png
