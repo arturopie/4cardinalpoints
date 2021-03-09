@@ -6,7 +6,7 @@ modal-id: 1
 date: 2017-12-18
 img: house-hack-2/after-rehab/living-room-in-1.jpg
 thumbnail: house-hack-2/after-rehab/living-room-in-1-thumbnail.jpg
-alt: image-alt
+alt: Living room
 total_roi: $52,810
 cashflow: $2,948
 property_type: Duplex

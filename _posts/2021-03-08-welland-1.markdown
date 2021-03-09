@@ -4,9 +4,9 @@ subtitle: Buy and Hold Rental Property
 layout: default
 modal-id: 3
 date: 2014-07-17
-img: coming-soon-thumbnail.png
-thumbnail: coming-soon-thumbnail.png
-alt: image-alt
+img: welland-1/front-house.jpg
+thumbnail: welland-1/front-house-thumbnail.jpg
+alt: duplex-welland
 total_roi:
 cashflow:
 property_type: Duplex
