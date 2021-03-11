@@ -1,14 +1,14 @@
 ---
-title: House Hack (Mississauga) 
-subtitle: Rental Property in Mississauga
+title: 92 % RoI (Mississauga)
+subtitle: House Hack in Mississauga
 layout: default
 modal-id: 2
 date: 2013-07-17
 img: house-hack-1/basement-unit.jpg
 thumbnail: house-hack-1/basement-unit-thumbnail.jpg
 alt: Basement Unit
-total_roi:
-cashflow:
+total_roi: $84,920
+cashflow: $4,676
 property_type: Duplex
 description: 
 

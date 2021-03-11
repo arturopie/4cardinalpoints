@@ -1,6 +1,6 @@
 ---
 title: 68% RoI (Mississauga)
-subtitle: Rental Property in Mississauga
+subtitle: House Hack in Mississauga
 layout: default
 modal-id: 1
 date: 2017-12-18

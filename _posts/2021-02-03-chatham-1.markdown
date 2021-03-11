@@ -1,13 +1,13 @@
 ---
-title: Pre-construction (Chatham)
-subtitle: Purpose-built rental duplex
+title: Estimated 42%+ RoI (Chatham)
+subtitle: Purpose-Built Rental Duplex
 layout: default
 modal-id: 4
 date: 2014-07-17
 img: chatham-1/pics.jpg
 thumbnail: chatham-1/pics-thumbnail.jpg
 alt: image-alt
-total_roi: 42%
+total_roi: $54,145
 cashflow: $4,876
 property_type: Duplex
 description: 

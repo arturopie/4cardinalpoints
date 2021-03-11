@@ -1,14 +1,14 @@
 ---
-title: Duplex in Welland
-subtitle: Buy and Hold Rental Property 
+title: Estimated 37%+ RoI (Welland)
+subtitle: Buy and Hold Rental Duplex
 layout: default
 modal-id: 3
 date: 2014-07-17
 img: welland-1/front-house.jpg
 thumbnail: welland-1/front-house-thumbnail.jpg
 alt: duplex-welland
-total_roi:
-cashflow:
+total_roi: $41,202
+cashflow: $5,975
 property_type: Duplex
 description: 
 
