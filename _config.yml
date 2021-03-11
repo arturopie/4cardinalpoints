@@ -4,8 +4,7 @@ baseurl: ''
 # Site settings
 title: 4 Cardinal Points REI
 email: web.contact@4cardinalpoints.ca
-# AP_TODO: Update description
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "We are a Real Estate Investor group. Our focus is on buying and holding multi family rental properties with positive cashflow and more than 30% RoI on the first year."
 
 
 # Team names, titles and social links
