@@ -4,11 +4,11 @@ subtitle: Purpose-built rental duplex
 layout: default
 modal-id: 4
 date: 2014-07-17
-img: coming-soon-thumbnail.png
-thumbnail: coming-soon-thumbnail.png
+img: chatham-1/pics.jpg
+thumbnail: chatham-1/pics-thumbnail.jpg
 alt: image-alt
-total_roi:
-cashflow:
+total_roi: 42%
+cashflow: $4,876
 property_type: Duplex
 description: 
 
