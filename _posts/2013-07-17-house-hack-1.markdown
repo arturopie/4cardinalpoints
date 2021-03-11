@@ -1,6 +1,6 @@
 ---
 title: 92 % RoI (Mississauga)
-subtitle: House Hack in Mississauga
+subtitle: House Hack
 layout: default
 modal-id: 2
 date: 2013-07-17
