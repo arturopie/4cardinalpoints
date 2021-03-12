@@ -18,4 +18,4 @@ description:
 
 These numbers were computed using a conservative analysis when the deal was closed.
 
-![img.png](img/portfolio/welland-1/the-numbers.png)
+![the-numbers-roi](img/portfolio/welland-1/the-numbers.jpg)

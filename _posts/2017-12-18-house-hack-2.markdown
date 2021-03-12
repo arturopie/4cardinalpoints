@@ -1,5 +1,5 @@
 ---
-title: 68% RoI (Mississauga)
+title: 88% RoI (Mississauga)
 subtitle: House Hack
 layout: default
 modal-id: 1
@@ -7,7 +7,7 @@ date: 2017-12-18
 img: house-hack-2/after-rehab/living-room-in-1.jpg
 thumbnail: house-hack-2/after-rehab/living-room-in-1-thumbnail.jpg
 alt: Living room
-total_roi: $52,810
+total_roi: $67,714
 cashflow: $2,948
 property_type: Duplex
 description: This is a house hack. The property was bought at a discount, rehabbed and rented out. This property has been rented out on short terms (AirBnB), and long leases.
@@ -31,4 +31,4 @@ Here is the condition of the property when acquired.
 
 The tenant pays $1,400 per month for this unit. Bellow is last year total Return On Investment on this property.
 
-![the-numbers-68-roi](img/portfolio/house-hack-2/the-numbers.jpg)
+![the-numbers-roi](img/portfolio/house-hack-2/the-numbers.jpg)
