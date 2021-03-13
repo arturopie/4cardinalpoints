@@ -1,5 +1,5 @@
 ---
-title: Estimated 42%+ RoI (Chatham)
+title: Estimated 33%+ RoI (Chatham)
 subtitle: Purpose-Built Rental Duplex
 layout: default
 modal-id: 4
@@ -7,9 +7,14 @@ date: 2014-07-17
 img: chatham-1/pics.jpg
 thumbnail: chatham-1/pics-thumbnail.jpg
 alt: image-alt
-total_roi: $54,145
-cashflow: $4,876
+total_roi: $51,156
+cashflow: $6,573
 property_type: Duplex
 description: 
 
 ---
+### The Numbers
+
+These numbers were computed using a conservative analysis.
+
+![the-numbers-roi](img/portfolio/chatham-1/the-numbers.jpg)
