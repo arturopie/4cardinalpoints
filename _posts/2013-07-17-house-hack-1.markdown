@@ -1,5 +1,5 @@
 ---
-title: 92 % RoI (Mississauga)
+title: 79% RoI (Mississauga)
 subtitle: House Hack
 layout: default
 modal-id: 2
@@ -7,9 +7,15 @@ date: 2013-07-17
 img: house-hack-1/basement-unit.jpg
 thumbnail: house-hack-1/basement-unit-thumbnail.jpg
 alt: Basement Unit
-total_roi: $84,920
-cashflow: $4,676
+total_roi: $39,763
+cashflow: $10,416
 property_type: Duplex
 description: 
 
 ---
+
+### The Numbers
+
+The total cash investment for this property was $50,400. Bellow is the annual return on investment on this property.
+
+![the-numbers-roi](img/portfolio/house-hack-1/the-numbers.jpg)
