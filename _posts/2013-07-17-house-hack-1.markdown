@@ -16,10 +16,12 @@ description:
 
 ### Pictures
 
-![new-bathroom](img/portfolio/house-hack-1/new-bathroom.jpg) | ![kitchen](img/portfolio/house-hack-1/kitchen.jpg) | ![living-room-in](img/portfolio/house-hack-1/bedroom.jpg)
+We added value by making the basement habitable, and adding 2 bathrooms and 1 kitchen. We rent 3 bedrooms on this property.
+
+![bedroom-2](img/portfolio/house-hack-1/bedroom-2.jpg) | ![kitchen](img/portfolio/house-hack-1/kitchen.jpg) | ![new-bathroom](img/portfolio/house-hack-1/new-bathroom.jpg)
 
 ### The Numbers
 
-The total cash invested on this property was $50,400 including renovation cost. We added value by making the basement habitable, and adding 2 bathrooms and 1 kitchen. Bellow is the annual return on investment on this property.
+The total cash invested on this property was $50,400 including renovation cost. Bellow is the annual return on investment on this property.
 
 ![the-numbers-roi](img/portfolio/house-hack-1/the-numbers.jpg)
