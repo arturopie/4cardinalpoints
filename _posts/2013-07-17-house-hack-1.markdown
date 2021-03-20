@@ -14,8 +14,12 @@ description:
 
 ---
 
+### Pictures
+
+![new-bathroom](img/portfolio/house-hack-1/new-bathroom.jpg) | ![kitchen](img/portfolio/house-hack-1/kitchen.jpg) | ![living-room-in](img/portfolio/house-hack-1/bedroom.jpg)
+
 ### The Numbers
 
-The total cash investment for this property was $50,400. Bellow is the annual return on investment on this property.
+The total cash invested on this property was $50,400 including renovation cost. We added value by making the basement habitable, and adding 2 bathrooms and 1 kitchen. Bellow is the annual return on investment on this property.
 
 ![the-numbers-roi](img/portfolio/house-hack-1/the-numbers.jpg)
