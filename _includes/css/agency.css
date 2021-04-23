@@ -187,6 +187,10 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-default .navbar-brand .navbar-logo {
+    height: 35px;
+}
+
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
 }
