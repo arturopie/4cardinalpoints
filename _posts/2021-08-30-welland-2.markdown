@@ -1,0 +1,21 @@
+---
+title: 9.9% Cashflow (Welland)
+subtitle: Buy, Reno and Hold Rental Duplex
+layout: default
+modal-id: 4
+date: 2014-07-17
+img: welland-2/front-house.jpg
+thumbnail: welland-2/front-house-thumbnail.jpg
+alt: duplex-welland-2
+total_roi: $67,600
+cashflow: $15,400
+property_type: Duplex
+description: 
+
+---
+
+### The Numbers
+
+Bellow is the annual return on investment on this property.
+
+![the-numbers-roi](img/portfolio/welland-2/the-numbers.jpg)

@@ -1,12 +1,12 @@
 ---
-title: Estimated 43%+ RoI (Welland)
+title: 43% RoI (Welland)
 subtitle: Buy and Hold Rental Duplex
 layout: default
 modal-id: 3
 date: 2014-07-17
 img: welland-1/front-house.jpg
 thumbnail: welland-1/front-house-thumbnail.jpg
-alt: duplex-welland
+alt: duplex-welland-1
 total_roi: $44,174
 cashflow: $7,697
 property_type: Duplex
@@ -16,6 +16,6 @@ description:
 
 ### The Numbers
 
-These numbers were computed using a conservative analysis when the deal was closed.
+Bellow is the annual return on investment on this property.
 
 ![the-numbers-roi](img/portfolio/welland-1/the-numbers.jpg)
