@@ -14,6 +14,14 @@ description:
 
 ---
 
+### Property Improvements
+
+We added value by converting the property into a duplex with 4 bedrooms on the upper unit, and 3 bedrooms on the lower unit. We added a new laundry space for the upper unit, separated hydro metering, installed new flooring, built backyard fence, installed new electric ranges and hoods, painted all walls, stairs, doors, windows trim and baseboards.
+
+![entrance](img/portfolio/welland-2/entrance.jpg) | ![upper-kitchen](img/portfolio/welland-2/upper-kitchen.jpg) | ![lower-kitchen](img/portfolio/welland-2/lower-kitchen.jpg)
+
+![lower-living-room](img/portfolio/welland-2/lower-living-room.jpg) | ![lower-hall](img/portfolio/welland-2/lower-hall.jpg) | ![bathroom](img/portfolio/welland-2/bathroom.jpg)
+
 ### The Numbers
 
 Bellow is the annual return on investment on this property.
